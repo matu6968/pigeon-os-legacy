@@ -1,3 +1,5 @@
+This list is not finished yet.
+
 PigeonOS_1.1_Testing2:
 - The first version of PigeonOS to be leaked for testing,
 - has the old clock design,
