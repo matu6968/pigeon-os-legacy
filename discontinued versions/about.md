@@ -15,7 +15,7 @@ PigeonOS_1.1_Testing2.5:
 - Has a discord app shortcut.
 
 PigeonOS_2.0:
-- The first version of PigeonOS to be availible to the public and it's file size grow to 12 MB,
+- The first version of PigeonOS to be availible to the public and it's file size grew to 12 MB,
 - Has a initialization screen,
 - Revamped top bar,
 - Changed discord shortcut icon to a better one and its name from dicord to discord,
